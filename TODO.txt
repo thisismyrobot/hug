@@ -1,0 +1,2 @@
+* stop it spinning flat out at start with 10K pull-down to gnd on PWM pins
+    - http://forums.netduino.com/index.php?/topic/1912-digital-ios-during-power-up/page__p__13748__hl__pwm__fromsearch__1#entry13748
